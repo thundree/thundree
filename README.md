@@ -8,7 +8,7 @@
 
 ### Some stats:
 
-[![Thundree's github stats](https://github-readme-stats.vercel.app/api?username=thundree&count_private=true&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+[![Thundree's github stats](https://github-readme-stats.vercel.app/api?username=thundree&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thundree&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
