@@ -2,9 +2,7 @@
 
 ## Full Stack Developer!
 
-- 🔭 I’m currently working as a full stack developer with React, Vue.js, Angular and Node.js!
-- 🌱 I’m currently learning docker, game development, ML and cooking 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working as a full stack developer with React, Vue.js and Node.js!
 
 ### Some stats:
 
