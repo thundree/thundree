@@ -12,7 +12,7 @@ Senior Software Engineer with over 18 years of experience, specializing in build
 
 March 2012 - Present
 
-### Freelance Web Developer
+### Freelance Fullstack Developer
 
 Self-employed
 
